@@ -1,1 +1,1 @@
-No instructions found. Please look around the filesystem and update me
+This environment is set up for Node.js development. Use npm or yarn to manage dependencies. You can run the app with 'npm start' or 'node index.js'. Future database integrations can use SQLite, MongoDB, or other Node.js compatible databases.

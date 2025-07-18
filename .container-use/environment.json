@@ -1,4 +1,7 @@
 {
   "workdir": "/workdir",
-  "base_image": "ubuntu:24.04"
+  "base_image": "node:20-bullseye",
+  "setup_commands": [
+    "npm install -g npm"
+  ]
 }
