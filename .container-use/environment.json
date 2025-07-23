@@ -1,7 +1,0 @@
-{
-  "workdir": "/workdir",
-  "base_image": "node:20-bullseye",
-  "setup_commands": [
-    "npm install -g npm"
-  ]
-}
